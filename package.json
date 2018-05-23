@@ -1,5 +1,5 @@
 {
-  "name": "object_get",
+  "name": "@jycr753/object_get",
   "version": "1.0.0",
   "description": "An easy way to get values from javascript object by string",
   "main": "index.js",
